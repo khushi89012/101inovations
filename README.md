@@ -17,3 +17,8 @@ You may also see any lint errors in the console.
 ### `Sorting and Filtering`
 
 You can Select options for sorting and Filtering 
+
+### `JSON SERVER`
+### `json-server --watch db.json --port 8080`
+
+
