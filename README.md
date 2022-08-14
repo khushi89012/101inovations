@@ -30,6 +30,11 @@ Please Note You need to run JSON server First
 ### `Detail  Page`;
 ![Capture](https://user-images.githubusercontent.com/95909861/184525423-3f7fe5d2-3747-4ea5-bd33-bdb8776f9693.PNG)
 
+------------------------------------------------------
+### `Favourite List  Page`;
+![Capture](https://user-images.githubusercontent.com/95909861/184525462-f569c794-0630-4993-a561-2f9a6761dc1b.PNG)
+
+
 
 
 
