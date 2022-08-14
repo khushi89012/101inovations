@@ -21,4 +21,8 @@ You can Select options for sorting and Filtering
 ### `JSON SERVER`
 ### `json-server --watch db.json --port 8080`
 
+### `Landing Page`;
+![Capture](https://user-images.githubusercontent.com/95909861/184525310-b25c34fc-9562-4fd7-b7c4-7113e9a5a0c7.PNG)
+
+
 
